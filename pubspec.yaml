@@ -1,8 +1,8 @@
 name: action_sheet
 description: A new Flutter package.
 version: 0.0.1
-author: caohouhong
-homepage:
+author: caohouhong <houhongcao@gmail.com>
+homepage: https://github.com/Ccalary/action_sheet.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
